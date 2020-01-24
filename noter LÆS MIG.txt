@@ -1,0 +1,3 @@
+I kunde tabellen skal kontoNR være kundeNR
+Programmet gør brug af pakken "System.Data.SqlClient" (vi har brugt v4.8.0)
+	-Så vidt vi har kunne finde ud af, så er den pakke ikke en normal del af VS community
